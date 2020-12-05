@@ -30,7 +30,7 @@ and the small board of size 3x3. </h6>
 <h5> To win on the medium board the agent must have 4 of its symbols in a row. </h5>
 <h5> To win on the large board the agent must have 5 of its symbols in a row. </h5>
 <h5> The project also allows users to calculate the total run time of the program and
-the number of nodes the program (agent and opponent) extends. </h5>
+the number of nodes the program (agent and opponent) expands. </h5>
 
 --------
 # <h1> To run this project, install it locally using: </h1>
