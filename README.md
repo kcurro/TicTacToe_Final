@@ -14,10 +14,10 @@ and Minimax Agent with Alpha Beta Pruning </h5>
 <h5> The Random Agent will choose a tic-tac-toe location by random on the grid. This agent 
   does not use any game winning algorithm to help them along. </h5>
 <h5> The Basic Strategy Agent will play the corners of the tic-tac-toe grid first then 
-  choose random positions </h5>
-<h5> The Minimax Agent will use minimax game trees to help agent choose the optimal move </h5>
+  choose random positions. </h5>
+<h5> The Minimax Agent will use minimax game trees to help agent choose the optimal move. </h5>
 <h5> The Minimax Agent with Alpha Beta Pruning will use the minimax with alpha beta pruning 
-  algorithm to help agent choose the optimal move </h5>
+  algorithm to help agent choose the optimal move. </h5>
 
 --------
 
@@ -34,7 +34,7 @@ and the small board of size 3x3. </h6>
 <h5> To win on the medium board the agent must have 4 of its symbols in a row. </h5>
 <h5> To win on the large board the agent must have 5 of its symbols in a row. </h5>
 <h5> The project also allows users to calculate the total run time of the program and
-the number of nodes the program (agent and opponent) extend</h5>
+the number of nodes the program (agent and opponent) extends. </h5>
 
 --------
 
